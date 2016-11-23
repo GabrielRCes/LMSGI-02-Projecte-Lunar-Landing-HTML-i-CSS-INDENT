@@ -6,9 +6,8 @@ En este **_Github_** vamos a ver la tercera práctica del **Módulo**: _"Introdu
 ![FRANCESC DE BOJAMOLL](http://www.iesfbmoll.org/wp-content/uploads/2013/11/logo_ies_wp1.png)
 
  1. Índice de archivos subidos.  
-
-  * Rocket 3.0 minify _.rar_
-  * Rocket 3.0 indent _.rar_
+ 
+  * Rocket 3.0 indent 
     * Instruction.html
     * Index.html
     * img
